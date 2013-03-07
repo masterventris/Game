@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\FSM.cs">
+    <Files>
+      <File FileName="Assets\code\orbitCamera.cs" Line="13" Column="23" />
+      <File FileName="Assets\code\moveCharacter.cs" Line="69" Column="27" />
+      <File FileName="Assets\code\PlayerCubeLocSet.cs" Line="18" Column="5" />
+      <File FileName="Assets\code\Player.cs" Line="9" Column="3" />
+      <File FileName="Assets\code\GrenadeLauncher.js" Line="24" Column="6" />
+      <File FileName="Assets\code\Pause.js" Line="11" Column="33" />
+      <File FileName="Assets\code\moveCharacter.js" Line="30" Column="48" />
+      <File FileName="Assets\code\orbitCharacter.js" Line="148" Column="2" />
+      <File FileName="Assets\code\NPC.cs" Line="14" Column="38" />
+      <File FileName="Assets\code\Vector.cs" Line="10" Column="1" />
+      <File FileName="Assets\code\FSM.cs" Line="116" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

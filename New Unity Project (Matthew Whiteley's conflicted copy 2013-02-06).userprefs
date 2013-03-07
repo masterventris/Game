@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\MiniMapMask.shader">
+    <Files>
+      <File FileName="Assets\code\loadgame.cs" Line="14" Column="3" />
+      <File FileName="Assets\code\orbitCamera.cs" Line="88" Column="7" />
+      <File FileName="Assets\code\moveCharacter.cs" Line="69" Column="27" />
+      <File FileName="Assets\code\PlayerCubeLocSet.cs" Line="18" Column="5" />
+      <File FileName="Assets\code\Player.cs" Line="9" Column="3" />
+      <File FileName="Assets\code\NPC.cs" Line="14" Column="38" />
+      <File FileName="Assets\code\Vector.cs" Line="16" Column="3" />
+      <File FileName="Assets\code\FSM.cs" Line="195" Column="3" />
+      <File FileName="Assets\code\Policeman.cs" Line="1" Column="1" />
+      <File FileName="Assets\code\GrenadeLauncher.js" Line="24" Column="6" />
+      <File FileName="Assets\code\Pause.js" Line="11" Column="33" />
+      <File FileName="Assets\code\moveCharacter.js" Line="30" Column="48" />
+      <File FileName="Assets\code\orbitCharacter.js" Line="106" Column="27" />
+      <File FileName="Assets\code\loadLevel.js" Line="55" Column="32" />
+      <File FileName="Assets\Shaders\MiniMapMask.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
